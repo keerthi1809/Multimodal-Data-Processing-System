@@ -1,0 +1,18 @@
+Multimodal-Data-Processing-System/
+│
+├── data/                          # sample input files
+│   ├── sample.pdf
+│   ├── image1.jpg
+│   ├── sample_audio.mp3
+│
+├── src/                           # all source code files
+│   ├── extract_text.py
+│   ├── extract_image.py
+│   ├── extract_audio.py
+│   ├── database.py
+│   ├── query_handler.py
+│   ├── main.py
+│
+├── requirements.txt               # list of Python libraries used
+├── README.md                      # clear explanation (see below)
+└── .gitignore                     # optional, to skip temp or large files
